@@ -1,4 +1,9 @@
-div.container {
+ion-icon{
+    margin-bottom: -0.5%;
+    margin-right: 5px;
+}
+
+/* div.container {
     width: 100%;
     border: 1px solid gray;
 }
@@ -46,4 +51,4 @@ img{
 
 .tabela1 tbody tr:nth-child(odd){
 	background-color: rgb(100,149,237);
-}
+} */
